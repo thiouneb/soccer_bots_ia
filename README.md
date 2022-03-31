@@ -4,7 +4,7 @@ Vous pouvez vous inspirer de cette équipe pour créer la votre, ou bien la fair
 
 ## Exécuter
 - Télécharger d'abord l'API de Teambots 
-- Se placer dans le dossier SOccerbots
+- Se placer dans le dossier Soccerbots
 - Lancer la compilation avec : make all
 - Lancer la simulation avec : ./demo
 
